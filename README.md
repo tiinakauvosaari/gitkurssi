@@ -1,0 +1,2 @@
+# gitkurssi
+Git-kurssin harjoitukset
