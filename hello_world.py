@@ -1,1 +1,2 @@
-print(Hello from features)
+print("Hello world!")
+print("Hello from features")
